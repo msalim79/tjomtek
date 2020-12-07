@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+theme: jekyll-theme-cayman
+title: Welcome to tjomtek's homepage!
+description: Watch this space for more updates
 
 You can use the [editor on GitHub](https://github.com/msalim79/tjomtek/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 .
